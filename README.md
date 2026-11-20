@@ -1,4 +1,4 @@
-# TumDevsnaps - GDG on Campus  TUM, Event
+# TumDevsnaps - GDG on Campus  TUM, Event.
 
 ### THEME : Build Without Limits : The next generation Developer experience.
 
